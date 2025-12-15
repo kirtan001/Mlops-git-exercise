@@ -3,6 +3,7 @@ class HelloWorld:
     @staticmethod
     def main() -> None:
         print("Hello, Class!")
+        ptint("this is a class assignment")
 
 
 def main() -> None:
