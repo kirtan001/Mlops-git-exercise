@@ -2,8 +2,7 @@
 class HelloWorld:
     @staticmethod
     def main() -> None:
-        """Print a Hello World message inside the new repository."""
-        print("Hello, World!")
+        print("Hello, Class!")
 
 
 def main() -> None:
